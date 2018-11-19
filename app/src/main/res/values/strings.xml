@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="btn_camarero">Camarero</string>
+    <string name="btn_barra">Barra</string>
+    <string name="btn_cocina">Cocina</string>
+</resources>
